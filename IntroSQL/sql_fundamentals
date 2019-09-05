@@ -1,0 +1,34 @@
+Curso SQL Fundamentals
+
+1. Introdução a Bancos de Dados e SQL
+1.1 Bancos de dados: Conceitos
+1.2 Entendendo SQL: Conceitos
+
+2. Introdução ao SELECT
+2.1 Um breve olhar no SELECT
+2.2 Regras de sintaxe que você deve saber
+
+3. Brincando com os dados
+3.1 Funções de Agregação
+3.2 Alias para Colunas
+3.3 Realizando Cálculos
+3.4 Funções de Datas
+
+4. Especificando colunas para seleção
+4.1 Clausura WHERE
+4.2 Clausura ORDER BY
+
+5. Brincando com outros operadores
+5.1 Procurando texto
+5.2 Operadores Lógicos
+5.3 NULLs
+
+6. Agrupando dados
+6.1 Clausura GROUP BY
+6.2 Clausura HAVING
+6.3 Clausura WHERE e HAVING, qual escolher?
+
+7. Queries multi-tabela
+7.1 Joins
+7.2 Joins em ação
+7.2 Outer joins
